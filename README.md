@@ -1,5 +1,5 @@
 # Awesome-Arknights
-收录一直范围内明日方舟相关的所有工具与项目，欢迎fork issue PR。
+收录已知范围内明日方舟相关的所有工具与项目，欢迎fork issue PR。
 
 ## 数据类
 * [ArknightsGameData](https://github.com/Perfare/ArknightsGameData) - 明日方舟游戏数据（建议watch）
