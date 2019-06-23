@@ -1,4 +1,4 @@
-# Awesome-Arknights
+# awesome-Arknights [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 收录已知范围内明日方舟相关的所有工具与项目，欢迎fork issue PR。
 
 ## 数据类
@@ -11,6 +11,7 @@
 * [ArkPlanner](https://github.com/ycremar/ArkPlanner) - 最优刷图策略规划
 * [明日方舟工具箱](https://ak.graueneko.xyz/) - 公开招募、精英材料、升级消耗计算器
 * [罗德岛人力资源部](https://duli.dev/hr/) - 查看并计算公开招募中干员标签可获得的干员
+* [ArknightsPublicRecruitTool](https://github.com/HexJacaranda/ArknightsPublicRecruitTool) - 计算公开招募最优解
 
 ## 护肝类
 * [ArknightsAutoHelper](https://github.com/ninthDevilHAUNSTER/ArknightsAutoHelper) - 基于python的明日方舟护肝助手（[本人魔改版](https://github.com/cyf-gh/ArknightsAutoHelper)）
