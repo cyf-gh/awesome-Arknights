@@ -3,6 +3,7 @@
 
 ## 数据类
 * [ArknightsGameData](https://github.com/Perfare/ArknightsGameData) - 明日方舟游戏数据（建议watch）
+* [arknights-enemydata-search](https://github.com/Mark9804/arknights-enemydata-search) - 明日方舟敌方信息查询工具（数据来源：[ArknightsGameData](https://github.com/Perfare/ArknightsGameData)）
 * [ArknightsPaintingExtract](https://github.com/Goodjooy/ArknightsPaintingExtract) - 明日方舟立绘还原工具
 * [企鹅物流数据统计](https://penguin-stats.io) - 作战素材掉落数据统计
 
